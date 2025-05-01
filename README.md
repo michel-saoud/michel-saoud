@@ -2,13 +2,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michel-saoud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h4 align="left">🔭 Current Projects: I work at Nielsen, handling various integrations and technical testings, ranging from C2S to S2S.<br><br>🌱 Learning: I'm looking to deepen my knowledge in cloud computing.<br><br>👯 Collaboration Interests: I'm willing to collaborate on projects related to cloud computing.<br><br>📫 Contact: You can reach me at saoud.michel@hotmail.com.<br><br>⚡ Fun Fact: I speak four languages fluently!</h4>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW95NDUyYTVrNjk0dGgyNmV6dTNmMXQybGRwcTl4NXA2em12ZmpxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rIp49nsB14L7wVRAmc/giphy.gif"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michel-saoud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -30,9 +30,7 @@
   <a href="https://www.linkedin.com/in/michelsaoud/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="saoud.michel@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
 </div>
 
 ###
+
