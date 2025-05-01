@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🔭 Current Projects: I work at Nielsen, handling various integrations and technical testings, ranging from C2S to S2S.<br><br>🌱 Learning: I'm looking to deepen my knowledge in cloud computing.<br><br>👯 Collaboration Interests: I'm willing to collaborate on projects related to cloud computing.<br><br>📫 Contact: You can reach me at saoud.michel@hotmail.com.<br><br>⚡ Fun Fact: I speak four languages fluently!</h4>
+<h4 align="left">🔭 Current Projects: I work at Nielsen, handling various integrations and technical testings, ranging from C2S to S2S.<br><br>👯 Collaboration Interests: I'm willing to collaborate on projects related to cloud computing.<br><br>🌱 Learning: I'm looking to deepen my knowledge in cloud computing.<br><br>⚡ Fun Fact: I speak four languages fluently!</h4>
 
 ###
 
